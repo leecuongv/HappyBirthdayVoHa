@@ -19,7 +19,7 @@ function(isConfirm){
  
 
 swal({  
- title: "Bạn có phải là Võ Hà ? ", 
+ title: "Bạn có phải là Hà ?? ", 
   text: "Nhập mã xác nhận ",  
  type: "input",  
  showCancelButton: true,  

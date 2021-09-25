@@ -19,7 +19,7 @@ function(isConfirm){
  
 
 swal({  
- title: "Bạn có phải là Võ HÀ ? ", 
+ title: "Bạn có phải là Võ Haf ? ", 
   text: "Nhập mã xác nhận ",  
  type: "input",  
  showCancelButton: true,  
@@ -69,7 +69,7 @@ else {
 
 
 
-},3000);
+},8000);
 }
 htt_orion();
 

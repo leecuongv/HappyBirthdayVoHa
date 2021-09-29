@@ -19,7 +19,7 @@ function(isConfirm){
  
 
 swal({  
- title: "Bạn có phải là Võ HÀ ? ", 
+ title: "Bạn có phải là Hà ?? ", 
   text: "Nhập mã xác nhận ",  
  type: "input",  
  showCancelButton: true,  
@@ -51,7 +51,7 @@ if (inputValue === false) return false;
    if (inputValue === "") {   
   swal.showInputError("Không thể để trống được ");   
   return false   }  
- swal("OK ! ", "Món quà : " + inputValue + " sẽ được tặng cho Hà trong nữa hãy đợi nhé, Chúc một ngày Sinh Nhật thật Vui Vẻ nhé ^^   ", "success");
+ swal("OK ! ", "Món quà : " + inputValue + " sẽ được tặng cho Hà ngay hãy đợi nhé, Chúc một ngày Sinh Nhật thật Vui Vẻ nhé (´▽`ʃ♡ƪ) ", "success");
 });
     
     
@@ -69,7 +69,7 @@ else {
 
 
 
-},3000);
+},8000);
 }
 htt_orion();
 

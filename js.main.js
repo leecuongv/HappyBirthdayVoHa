@@ -7,7 +7,7 @@ swal({
 
  title: "Bạn nhận được một món quà !",   
 text: "Lee Cường vừa gửi bạn một món quà đặc biệt nhân ngày sinh nhật của bạn ", 
- imageUrl: "https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/242237168_1433258357104864_6223399705971305413_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=5oRig7A3f0AAX8zxXXV&_nc_oc=AQlVYsQcooIMqM_k2ztTo_YbE835GHfpcp_gwa0n2YL7RXyuszT6Aqy5AUsBikTJ8rfN7uxNYTqQwYNXRca9RZXl&_nc_ht=scontent.fdad1-2.fna&oh=604fa9e3a5d5a69dc9ef447cf51da289&oe=61528FF1",
+ imageUrl: "https://scontent.fsgn5-3.fna.fbcdn.net/v/t39.30808-6/275857915_1557837727980259_3533100780908852395_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=g-Kq2xqTic4AX9M42g7&_nc_ht=scontent.fsgn5-3.fna&oh=00_AT_3N7EGohV03MKCImGzRV1cOlsHaQKXT_YlimE07tdHgg&oe=6337FC6A",
   showCancelButton: true,
    confirmButtonColor: "#DD6B55", 
   confirmButtonText: "Nhận quà ngay",
